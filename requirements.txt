@@ -4,6 +4,6 @@ seaborn
 scikit-learn
 shap
 numpy
-openpyxl
 streamlit
-
+openpyxl
+pyarrow
