@@ -1,0 +1,166 @@
+employee_id,category,place_of_residence,work_experience_at_the_institute,experience_in_the_industry,floor,age,availability_of_part-time_jobs
+1,Administration,Moscow,6,32.0,1,55.0,1
+2,Medical staff,Kosterevo,4,4.0,0,40.0,0
+3,Doctors,Moscow,1,3.0,1,25.0,0
+4,Medical staff,Moscow,6,16.0,0,47.0,0
+5,Doctors,Moscow,40,40.0,1,71.0,0
+6,Doctors,MO,4,9.0,1,44.8,1
+7,Medical staff,Moscow,31,31.0,0,51.0,0
+8,Doctors,Voronezh,4,4.0,0,28.0,1
+9,Medical staff,Moscow,2,2.0,0,59.0,0
+10,Service staff,Moscow,0,11.0,1,48.0,0
+11,Service staff,Moscow,1,1.0,1,25.0,0
+12,Service staff,Moscow,3,3.0,0,33.0,0
+13,Service staff,Moscow,1,20.0,1,59.0,0
+14,Service staff,Moscow,7,4.0,1,32.0,0
+15,Service staff,Moscow,5,5.0,0,24.0,0
+16,Service staff,Moscow,8,8.0,0,48.0,0
+17,Service staff,Korolev,2,2.0,0,31.0,0
+18,Service staff,Moscow,1,13.0,0,51.0,0
+19,Service staff,Shchyolkovo,3,10.0,0,33.0,0
+20,Service staff,Moscow,7,7.0,0,25.0,0
+21,Doctors,Moscow,6,36.0,1,60.0,0
+22,Doctors,Moscow,9,15.0,1,40.0,0
+23,Doctors,Moscow,5,9.0,1,32.0,0
+24,Doctors,Visible,13,13.0,1,36.0,0
+25,Doctors,Moscow,5,13.0,1,35.0,0
+26,Medical staff,Aprelevka,1,6.0,0,25.0,0
+27,Administration,Pushkino,4,49.0,1,73.0,0
+28,Doctors,Moscow,7,14.0,1,40.0,1
+29,Service staff,Pavlovsky Posad,4,4.0,0,53.0,1
+30,Service staff,Moscow,10,10.0,0,58.0,1
+31,Service staff,Moscow,3,3.0,0,52.0,0
+32,Service staff,Moscow,3,3.0,0,48.0,0
+33,Service staff,Moscow,4,4.0,0,31.0,0
+34,Service staff,Moscow,4,4.0,1,53.0,0
+35,Service staff,Moscow,10,24.0,0,42.0,0
+36,Service staff,Moscow,31,31.0,0,51.0,0
+37,Service staff,Balashikha,2,2.0,1,46.0,0
+38,Service staff,Moscow,8,15.0,0,51.0,0
+39,Service staff,Moscow,11,11.0,0,30.0,0
+40,Service staff,Moscow,6,6.0,0,46.0,0
+41,Service staff,Moscow,1,7.0,0,51.0,0
+42,Service staff,Moscow,20,24.0,0,50.0,0
+43,Service staff,Moscow,1,4.0,0,24.0,0
+44,Administration,Moscow,9,11.0,1,52.0,0
+45,Service staff,Moscow,21,46.0,0,64.0,0
+46,Administration,Moscow,17,17.0,0,56.0,0
+47,Administration,Moscow,19,27.0,0,44.0,0
+48,Service staff,Moscow,1,9.0,1,31.0,0
+49,Service staff,Moscow,52,52.0,1,84.0,0
+50,Service staff,Moscow,2,2.0,0,24.0,0
+51,Medical staff,Moscow,2,2.0,1,21.0,0
+52,Doctors,Moscow,16,16.0,1,43.0,0
+53,Medical staff,Moscow,19,19.0,0,39.0,0
+54,Medical staff,Moscow,30,34.0,0,54.0,0
+55,Medical staff,Moscow,38,41.0,0,65.0,0
+56,Medical staff,Moscow,36,36.0,0,54.0,0
+57,Administration,Moscow,2,2.0,0,24.0,0
+58,Doctors,Moscow,1,26.0,0,47.0,0
+59,Administration,Moscow,1,1.0,0,32.0,0
+60,Medical staff,Moscow,3,3.0,0,58.0,0
+61,Medical staff,Moscow,13,13.0,0,35.0,0
+62,Administration,Moscow,40,40.0,0,44.8,0
+63,Administration,Moscow,19,29.0,0,52.0,0
+64,Administration,Moscow,20,40.0,1,67.0,1
+65,Administration,Moscow,22,22.0,0,56.0,1
+66,Administration,Moscow,31,33.0,0,54.0,0
+67,Medical staff,Moscow,20,40.0,0,60.0,0
+68,Service staff,Moscow,4,7.0,0,52.0,0
+69,Service staff,Moscow,4,13.0,0,51.0,0
+70,Medical staff,Moscow,8,15.0,1,53.0,0
+71,Administration,Moscow,54,54.0,0,71.0,0
+72,Administration,Moscow,13,20.0,0,39.0,0
+73,Medical staff,Moscow,20,20.0,0,51.0,1
+74,Medical staff,Moscow,1,1.0,1,18.0,0
+75,Medical staff,Moscow,1,1.0,1,29.0,0
+76,Medical staff,Lyubertsy,1,10.0,0,47.0,0
+77,Medical staff,Moscow,41,41.0,0,64.0,0
+78,Medical staff,Tula region,1,30.0,0,53.0,0
+79,Doctors,Moscow,14,16.0,1,38.0,1
+80,Doctors,Moscow,3,4.0,0,28.0,1
+81,Doctors,Moscow,23,27.0,1,50.0,1
+82,Doctors,Moscow,34,42.0,1,65.0,0
+83,Administration,Moscow,5,5.0,0,56.0,0
+84,Administration,Reutov,32,32.0,0,52.0,0
+85,Doctors,Moscow,4,8.0,1,27.0,1
+86,Medical staff,Moscow,1,1.0,0,36.0,0
+87,Doctors,Moscow,8,17.0,0,43.0,1
+88,Doctors,Moscow,9,40.0,1,60.0,1
+89,Doctors,Moscow,28,28.0,1,66.0,0
+90,Doctors,Moscow,16,16.0,1,38.0,0
+91,Doctors,Moscow,1,5.0,1,28.0,1
+92,Doctors,Moscow,18,24.0,1,48.0,0
+93,Medical staff,Moscow,8,10.0,0,29.0,0
+94,Medical staff,Moscow,22,22.0,0,42.0,0
+95,Medical staff,Moscow,1,5.0,0,27.0,0
+96,Medical staff,Moscow,1,2.0,0,22.0,1
+97,Doctors,Moscow,2,2.0,0,33.0,0
+98,Doctors,Moscow,7,7.0,1,29.0,0
+99,Medical staff,Moscow,30,30.0,0,48.0,0
+100,Doctors,Moscow,10,12.0,1,37.0,0
+101,Doctors,MO,23,30.0,1,53.0,0
+102,Doctors,Moscow,2,5.0,1,27.0,0
+103,Medical staff,Moscow,39,39.0,0,58.0,0
+104,Doctors,Moscow,25,31.0,0,54.0,1
+105,Medical staff,Moscow,41,41.0,0,60.0,0
+106,Doctors,Moscow,4,5.0,1,30.0,0
+107,Doctors,Moscow,20,18.0,1,40.0,1
+108,Doctors,Moscow,30,28.0,1,56.0,1
+109,Doctors,Moscow,3,6.0,1,29.0,0
+110,Doctors,Moscow,15,35.0,0,55.0,0
+111,Administration,Moscow,1,26.0,1,46.0,0
+112,Medical staff,MO,2,2.0,0,49.0,1
+113,Medical staff,Moscow,17,17.0,0,54.0,0
+114,Medical staff,Moscow,3,3.0,0,43.0,0
+115,Doctors,Balashikha,4,22.0,1,46.0,1
+116,Doctors,Moscow,8,21.0,0,52.0,0
+117,Doctors,Moscow,15,15.0,0,62.0,0
+118,Medical staff,Tula region,3,8.0,0,34.0,0
+119,Doctors,Moscow,21,23.0,0,53.0,1
+120,Doctors,Mytishchi,6,8.0,1,44.8,0
+121,Doctors,Moscow,18,20.0,1,48.0,1
+122,Medical staff,Moscow,1,1.0,0,24.0,0
+123,Doctors,MO,15,20.0,0,42.0,1
+124,Doctors,Ramenskoe,11,18.0,1,32.0,1
+125,Doctors,Moscow,1,1.0,1,25.0,0
+126,Doctors,Moscow,20,25.0,1,45.0,1
+127,Doctors,Moscow,2,5.0,1,26.0,1
+128,Doctors,Moscow,36,37.0,1,62.0,0
+129,Doctors,Moscow,1,2.0,1,24.0,0
+130,Medical staff,Moscow,35,41.0,0,60.0,0
+131,Doctors,Moscow,1,14.0,1,42.0,1
+132,Service staff,Moscow,19,19.0,0,61.0,0
+133,Medical staff,Moscow,32,32.0,0,51.0,0
+134,Medical staff,Moscow,31,31.0,0,53.0,0
+135,Doctors,Moscow,37,49.0,1,72.0,0
+136,Medical staff,Moscow,18,18.0,0,37.0,0
+137,Doctors,Moscow,3,16.0,0,47.0,1
+138,Administration,Moscow,32,32.0,0,54.0,0
+139,Medical staff,Moscow,3,2.0,0,26.0,0
+140,Medical staff,Moscow,33,30.0,0,57.0,0
+141,Doctors,Moscow,49,49.0,0,72.0,0
+142,Doctors,Moscow,17,40.0,1,70.0,0
+143,Doctors,Moscow,21,26.0,1,54.0,0
+144,Doctors,Moscow,45,53.0,1,70.0,0
+145,Doctors,Moscow,1,1.0,0,27.0,1
+146,Medical staff,Moscow,1,1.0,1,29.0,1
+147,Doctors,Reutov,16,25.0,0,51.0,1
+148,Medical staff,Moscow,1,1.0,0,23.0,0
+149,Medical staff,Moscow,22,22.0,0,40.0,0
+150,Doctors,Moscow,40,40.0,1,71.0,0
+151,Doctors,Moscow,1,1.0,0,28.0,1
+152,Service staff,Moscow,1,1.0,0,19.0,0
+153,Doctors,Moscow,1,2.0,1,24.0,0
+154,Doctors,Zhukovsky,2,4.0,1,31.0,1
+155,Medical staff,Moscow,20,20.0,0,38.0,0
+156,Doctors,Shchyolkovo,4,24.0,0,43.0,1
+157,Medical staff,Moscow,1,10.0,0,29.0,0
+158,Administration,Moscow,13,23.0,1,52.0,1
+159,Doctors,Moscow,30,30.0,1,53.0,1
+160,Doctors,Moscow,21,25.0,1,49.0,0
+161,Doctors,Moscow,37,40.0,1,62.0,0
+162,Doctors,Moscow,6,20.0,0,45.0,1
+163,Medical staff,Moscow,20,20.0,0,39.0,1
+164,Doctors,Moscow,17,17.0,0,41.0,0
+165,Doctors,Moscow,22,30.0,1,52.0,0
